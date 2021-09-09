@@ -2,7 +2,7 @@
 0.5714285714285715
 {'lastmonth_activity': {'mean': 165.65384615384616, 'median': 73.0, 'std': 278.5174959713127}, 'lastyear_activity': {'mean': 1502.923076923077, 'median': 955.0, 'std': 2150.065274913888}, 'number_of_employees': {'mean': 26.884615384615383, 'median': 14.0, 'std': 30.745014509018585}}
 {'corporation': 0.0, 'lastmonth_activity': 0.0, 'lastyear_activity': 0.0, 'number_of_employees': 0.0, 'exited': 0.0}
-{'ingestion.py': 0.5064844930000163, 'training.py': 1.1323512189999292}
+{'ingestion.py': 0.4804707029998099, 'training.py': 1.1346520400002191}
 Package            Version             Latest    Type 
 ------------------ ------------------- --------- -----
 asn1crypto         1.3.0               1.4.0     wheel
