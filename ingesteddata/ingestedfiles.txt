@@ -1,0 +1,8 @@
+2021-09-09 04:33:14.844531,/home/ml-devops-drift-monitoring/practicedata,dataset1.csv,17
+2021-09-09 04:33:14.848115,/home/ml-devops-drift-monitoring/practicedata,dataset2.csv,19
+2021-09-09 04:33:40.832396,/home/ml-devops-drift-monitoring/practicedata,dataset1.csv,17
+2021-09-09 04:33:40.836015,/home/ml-devops-drift-monitoring/practicedata,dataset2.csv,19
+2021-09-09 04:34:32.621511,/home/ml-devops-drift-monitoring/practicedata,dataset1.csv,17
+2021-09-09 04:34:32.625178,/home/ml-devops-drift-monitoring/practicedata,dataset2.csv,19
+2021-09-09 04:35:07.183998,/home/ml-devops-drift-monitoring/sourcedata,dataset3.csv,11
+2021-09-09 04:35:07.188586,/home/ml-devops-drift-monitoring/sourcedata,dataset4.csv,15
